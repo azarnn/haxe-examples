@@ -1,7 +1,5 @@
-class HelloWorld
-{
-	public static function main()
-	{
+class HelloWorld {
+	public static function main()	{
 		trace("Hello World!");
 	}
 }
